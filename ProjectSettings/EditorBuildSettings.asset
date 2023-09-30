@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Buttons1.unity
+    guid: 8c07d3fb42a050b43ba0b947654a9b0e
+  - enabled: 1
+    path: Assets/Scenes/Toggles.unity
+    guid: f89d7099c3e2a694db2f4569729fb973
+  - enabled: 1
+    path: Assets/Scenes/Drops.unity
+    guid: 265e016c06813c1448667c1728652f23
+  - enabled: 1
+    path: Assets/Scenes/Input.unity
+    guid: 2360537d6d622a24e9c59fb3ffb84760
+  - enabled: 1
+    path: Assets/Scenes/ScrollView.unity
+    guid: 1a8f080cba8f930408af5e594cd54bcf
+  m_configObjects: {}
